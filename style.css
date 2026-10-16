@@ -195,6 +195,7 @@ h3 { margin: 0 0 8px; font-size: 1.15rem; }
 }
 @media (prefers-color-scheme: dark) { .flow-step { color: #1a0f08; } }
 
+.lead-sm { margin: -16px 0 28px; color: var(--muted); max-width: 720px; }
 .note { margin: 28px 0 0; color: var(--muted); max-width: 720px; }
 .note.small { font-size: 0.9rem; }
 
