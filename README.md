@@ -26,8 +26,7 @@ fonctionne aussi tel quel sur n'importe quel hébergement statique.
 
 ## À compléter
 
-- [ ] Adresse `contact@forgecommune.fr` : à créer (ou remplacer)
-- [ ] Description de rouages.net
+- [ ] Adresse `contact@forgecommune.fr` : à créer
 - [ ] Mentions légales : siège, RNA, SIREN, directeur de publication, hébergeur
 - [ ] Lien vers les statuts : le dépôt `Documents` doit être public pour que
       le lien fonctionne
